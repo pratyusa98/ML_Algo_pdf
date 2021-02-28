@@ -7,7 +7,9 @@
 • The main purpose of making this repository is to keep all my Machine Learning notes at one place, hence keeping my GitHub clean!<br/>
 • It looks good, isn't it?
 
-## Algorithms used
+## Algorithms 
+
+### Supervised: <br/>
 **Regression:**<br/>
 • _Linear Regression_<br/>
 • _Multiple-Linear Regression_<br/>
@@ -22,14 +24,18 @@
 • _Naive Bayes_<br/>
 • _Decision Tree_<br/>
  
+**Ensemble:**<br/>
+• _Random Forest_<br/>
+• _Adaptive Boosting (AdaBoost)_<br/>
+• _Extreme Gradient Boosting (XGBoost)_<br/>
+
+### Unsupervised: <br/>
 **Clustering:**<br/>
 • _K-Means_<br/>
 • _Hierarchical_clustering_<br/>
 • _ DBSCAN_<br/>
 
-  
-**Ensemble:**<br/>
-• _Random Forest_<br/>
-• _Adaptive Boosting (AdaBoost)_<br/>
-• _Extreme Gradient Boosting (XGBoost)_<br/>
-• _Voting (Hard/Soft)_<br/>
+### NLP: <br/>
+### Deep_Learning: <br/>
+### Time_series: <br/>
+
