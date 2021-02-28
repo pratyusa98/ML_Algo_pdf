@@ -24,6 +24,9 @@
  
 **Clustering:**<br/>
 • _K-Means_<br/>
+• _Hierarchical_clustering_<br/>
+• _ DBSCAN_<br/>
+
   
 **Ensemble:**<br/>
 • _Random Forest_<br/>
